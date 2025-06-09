@@ -1,0 +1,3 @@
+C:/Users/adria/CLionProjects/Task1_Assigment/cmake-build-debug/CMakeFiles/Task1_Assigment.dir
+C:/Users/adria/CLionProjects/Task1_Assigment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adria/CLionProjects/Task1_Assigment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
